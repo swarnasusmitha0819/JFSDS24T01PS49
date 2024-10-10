@@ -32,7 +32,7 @@ export default function App() {
 
   return (
     <div className="App">
-      {/* <h3 style={{ textAlign: "center", fontFamily: "'Poppins', sans-serif" }}>
+      {/* <h3>
         Serenify
       </h3> */}
 
